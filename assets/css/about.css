@@ -1,0 +1,38 @@
+:root {
+    --color1: #000;
+    --color2: #6e9c9f;
+    --color3: #509498;
+    --color4: #fff;
+}
+
+/* SECTION START */
+
+.main-title {
+    font-size: 55px;
+    font-weight: 500;
+    letter-spacing: 1.1px;
+}
+
+.idea-wrapper {
+    align-items: center;
+}
+
+.info-wrapp {
+    display: flex;
+    flex-direction: column;
+    row-gap: 46px;
+}
+
+.info-description {
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 0.34px;
+}
+
+.btn-wrapp{
+    justify-content: center;
+}
+
+.about-img{
+    width: 100%;
+}

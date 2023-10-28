@@ -1,0 +1,82 @@
+:root {
+    --color1: #000;
+    --color2: #6e9c9f;
+    --color3: #509498;
+    --color4: #fff;
+}
+
+.section-form-order {
+    margin-top: 214px;
+}
+
+.form-title {
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+
+.form-order-item {
+    max-width: 350px;
+    border: none;
+    border-bottom: 1px solid var(--color1);
+    padding-bottom: 16px;
+    font-size: 17px;
+    letter-spacing: 0.34px;
+}
+
+.form-order-item:focus {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid var(--color1);
+}
+
+.form-title-mt {
+    margin-top: 81px;
+}
+
+.form_comment {
+    padding-bottom: 110px;
+}
+
+.order-title {
+    font-size: 25px;
+    margin-bottom: 47px;
+}
+
+.order-name,
+.order-totel-price-wrapp p {
+    font-size: 20px;
+}
+
+.order-total-wrapp,
+.order-total-price-wrapp {
+    font-size: 17px;
+    row-gap: 30px;
+}
+
+.order-gap {
+    column-gap: 73px;
+}
+
+.total-price {
+    background: #f1eadc;
+    padding: 14px 0;
+    margin-top: 15px;
+    font-size: 20px;
+    width: 284px;
+    column-gap: 137px;
+    justify-content: center;
+    margin-bottom: 145px;
+}
+
+.payment-wrapp svg {
+    cursor: pointer;
+}
+
+.payment-wrapp p {
+    font-size: 17px;
+}
+
+.payment-wrapp {
+    column-gap: 14px;
+    margin-bottom: 47px;
+}

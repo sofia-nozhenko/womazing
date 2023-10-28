@@ -1,0 +1,29 @@
+:root {
+    --color1: #000;
+    --color2: #6e9c9f;
+    --color3: #509498;
+    --color4: #fff;
+}
+
+.order-recieved-wrapp {
+    margin-top: 214px;
+}
+
+.recieved-title {
+    font-size: 25px;
+    letter-spacing: 0.5px;
+}
+
+ .recieved-text{
+    font-size: 17px;
+    letter-spacing: 0.34px;
+    margin-top: 17px;
+}
+
+.wrapper-recieved{
+    column-gap: 32px;
+}
+
+.item-btn{
+    margin: 0;
+}
